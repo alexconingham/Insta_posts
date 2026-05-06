@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Credentials & secrets
+.env
+*.env.*
+secrets.json
+cookies.txt
+session/
+*.session
+
+# Media / generated content
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+output/
+generated/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
